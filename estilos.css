@@ -310,6 +310,7 @@ input{
 .link ul li > a:hover{
     color: #ff5a2c;
 }
+
 @media (max-width:991px) {
     .menu {
         padding: 20px;
